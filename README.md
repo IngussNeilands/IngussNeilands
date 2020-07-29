@@ -2,7 +2,7 @@
 
 20+ years of combined experience in Cloud Architecture, Infrastructure, Operations and Software Development 💪
 
-Please Feel Free to Reach Out if You Have Any Questions - Inguss.Neilands@Gmail.com
+Please Feel Free to Reach Out if You Have Any Questions - Inguss.Neilands@gmail.com
 
 I will challenge the Status Quo
 
@@ -15,9 +15,9 @@ I will challenge the Status Quo
 * Cost Control
 * Mentoring
 
-## Key Skills Areas
+## Technical skills
 
-* Cloud Security, Governance and Cost Control
+* Cloud Security, Governance and Cost Optimization
 * Amazon AWS: Computing, Networking, Storage and Database Services, Security and Identity Services: IAM, KMS
 * DevOps: Automation, Infrastructure as Code, Terraform, CDK, CloudFormation, Ansible, Jenkins
 * Container Orchestration: Docker, Kubernetes, ECS and Fargate
