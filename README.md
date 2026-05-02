@@ -1,8 +1,6 @@
 # Hi, I'm Inguss Neilands 👍
 
-Experienced platform engineer and SRE with over 30 years progressing from hands-on infrastructure roots (bare-metal Linux/BGP, ISP founding) to leading enterprise cloud transformations, HIPAA-compliant AWS EKS platforms, and generative AI initiatives.
-
-I combine architectural depth with executive roadmap ownership in regulated, high-availability environments focused on automation and operational resilience. My approach is dual-threat by design: deeply hands-on technical execution alongside building high-performing teams, directing R&D labs, and driving strategic delivery at VP/C-level.
+Principal Platform Architect with 15+ years identifying structural issues and building scalable, secure cloud-native platforms. Deep expertise in AWS, Kubernetes, GitOps, IaC, SRE, and regulated environments (HIPAA, GDPR, SOC 2). Recent hands-on work on local LLM agentic automation and self-managed production infrastructure.
 
 *I will challenge the Status Quo*
 
